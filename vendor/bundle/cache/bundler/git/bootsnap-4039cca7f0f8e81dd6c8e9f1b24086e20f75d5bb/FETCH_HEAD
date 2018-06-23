@@ -1,0 +1,45 @@
+e6d806911693a157bd92491c64caa05fb6e3cdb5		branch 'fix-tests' of https://github.com/ojab/bootsnap
+3a30a530ac0ff76b9a9772dc0565f811f8be8d1b		branch 'lol' of https://github.com/ojab/bootsnap
+cea275a71740fa0b89c24bf746e1884fe27bd1e8		branch 'master' of https://github.com/ojab/bootsnap
+887ae398101ce109872912cabf31695353fd8a62		branch 'readme' of https://github.com/ojab/bootsnap
+00adbd16d6d3821a6cea2ec445b902d0c0653d32		branch 'remove-load_missing_constant-patch' of https://github.com/ojab/bootsnap
+c672921ee0b2d22e016b1d557eacb1ff681918dc		branch 'ruby_platform' of https://github.com/ojab/bootsnap
+122b6b8407509220d7f31cfe7e35e8c378398f5e		branch 'rust' of https://github.com/ojab/bootsnap
+8852bf62de64acaa97a0c3ac5c371fed18a32270		branch 'whoops' of https://github.com/ojab/bootsnap
+cf244b2887759a6d1720a83f78df838197f08968		branch 'xx' of https://github.com/ojab/bootsnap
+2177368d527b181faf3f2f121fb831162fd6143f		branch 'xxx' of https://github.com/ojab/bootsnap
+86b8b285520299fec913c5f1d63dda4f13dbfa25	not-for-merge	tag '1.1.5' of https://github.com/ojab/bootsnap
+053389d3f2e8e9284b3b03f9a34670eac582b44a	not-for-merge	tag 'v0.2.0' of https://github.com/ojab/bootsnap
+ccbe87fce6b9b19eaa027c14ed1dc163a944b6ca	not-for-merge	tag 'v0.2.1' of https://github.com/ojab/bootsnap
+c56c90c27db48ee64c3c71760ff033904367bb72	not-for-merge	tag 'v0.2.10' of https://github.com/ojab/bootsnap
+71cfc3ed6ace72694fbc62fbc301d957dd351974	not-for-merge	tag 'v0.2.11' of https://github.com/ojab/bootsnap
+95cee4d7e0a31e601d33e53d1a9e09403955294f	not-for-merge	tag 'v0.2.12' of https://github.com/ojab/bootsnap
+0e03884792dd0b1ccb0a39f28e0bcfc989217945	not-for-merge	tag 'v0.2.13' of https://github.com/ojab/bootsnap
+d47839c9f10e5e0462809973dfaceb53164039f1	not-for-merge	tag 'v0.2.14' of https://github.com/ojab/bootsnap
+5fe1219fff05e32fe020e1c56e260c8517ee79ed	not-for-merge	tag 'v0.2.15' of https://github.com/ojab/bootsnap
+84ffe909023f359df437a196abb7617321adb54c	not-for-merge	tag 'v0.2.2' of https://github.com/ojab/bootsnap
+3dfa7e51e0b8ce21140dd3eaf05e93fd55d5e4f0	not-for-merge	tag 'v0.2.3' of https://github.com/ojab/bootsnap
+3c4d6816c5e29f314768bb6099c8ae136fd4341f	not-for-merge	tag 'v0.2.4' of https://github.com/ojab/bootsnap
+e433dc086f608bfa0861ac26a7164cc0b13faff8	not-for-merge	tag 'v0.2.5' of https://github.com/ojab/bootsnap
+ad49a2ef0f3903c699aa165fb9f150d425faa3f9	not-for-merge	tag 'v0.2.6' of https://github.com/ojab/bootsnap
+3733786bf5f74c8219aadbfe891b84ceb8d1242b	not-for-merge	tag 'v0.2.8' of https://github.com/ojab/bootsnap
+3ca1724d323040fd95d2406bd05da853f4ac541f	not-for-merge	tag 'v0.2.9' of https://github.com/ojab/bootsnap
+d3fee68eb190cdf2f2ddee581289bb6f0a20999b	not-for-merge	tag 'v0.3.0' of https://github.com/ojab/bootsnap
+5a3ffd8638d75859512eb62a5a20fb5ff2e659ad	not-for-merge	tag 'v0.3.0.pre' of https://github.com/ojab/bootsnap
+64030ced9dfccb0d6d6ea7e33cd30901f2af72be	not-for-merge	tag 'v0.3.0.pre2' of https://github.com/ojab/bootsnap
+722e6bb79727486b2f28a460f75c482c4606dfb8	not-for-merge	tag 'v0.3.0.pre3' of https://github.com/ojab/bootsnap
+50b6e8dade347c435023477cbfd6f386b5fae3eb	not-for-merge	tag 'v0.3.1' of https://github.com/ojab/bootsnap
+77f674ccfd03b2a4eb8183d8b2dccc9a66ccd4fe	not-for-merge	tag 'v0.3.2' of https://github.com/ojab/bootsnap
+dc29efb55cf5ac595dbb0aeb99c8d3172da9ed56	not-for-merge	tag 'v1.0.0' of https://github.com/ojab/bootsnap
+b02dbe31c2fdca06c021f346cc866eed8c63c1ef	not-for-merge	tag 'v1.1.0' of https://github.com/ojab/bootsnap
+4e5afe5380250f7378f0556fb14c8866b4a3096d	not-for-merge	tag 'v1.1.0.pre' of https://github.com/ojab/bootsnap
+153e24b447ad9ece8e4df1dc0bd02e7138b828ea	not-for-merge	tag 'v1.1.1' of https://github.com/ojab/bootsnap
+d84bf7af24a7ef7783b96772db0fdbba45b7bca4	not-for-merge	tag 'v1.1.2' of https://github.com/ojab/bootsnap
+62baf091704bd59129bfa1a8d3ccd3b1e5939b58	not-for-merge	tag 'v1.1.3' of https://github.com/ojab/bootsnap
+ed3ef90b7047f01d9cbe7a9e481ccb45f30a2922	not-for-merge	tag 'v1.1.4' of https://github.com/ojab/bootsnap
+86b8b285520299fec913c5f1d63dda4f13dbfa25	not-for-merge	tag 'v1.1.5' of https://github.com/ojab/bootsnap
+69a643e0f186fab661317c85932a619c87abd183	not-for-merge	tag 'v1.1.6.beta' of https://github.com/ojab/bootsnap
+a06f00ef4978df46e68ff02cfeb42ea6027fdbcd	not-for-merge	tag 'v1.1.6.beta2' of https://github.com/ojab/bootsnap
+bc2942a0fc6ba548118eaed5cb7dfc9054e09728	not-for-merge	tag 'v1.1.6.beta3' of https://github.com/ojab/bootsnap
+a28e6c2290126263be27cf28869a7fb840593bb1	not-for-merge	tag 'v1.1.7' of https://github.com/ojab/bootsnap
+255dc5a50c387a177c15905fcb204a1c5f6a22c3	not-for-merge	tag 'v1.1.8' of https://github.com/ojab/bootsnap
