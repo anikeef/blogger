@@ -29,12 +29,17 @@ h1 {
   margin-bottom: 30px;
 }
 
+p {
+  line-height: 1.4;
+}
+
 .flash {
   color: #aaa;
 }
 
 a {
   text-decoration: none;
+  color: #222;
 }
 
 a:visited {
@@ -147,7 +152,7 @@ h4 {
 }
 
 .comment_holder {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   padding: 20px;
   border: 1px dotted #222;
   border-radius: 10px;
