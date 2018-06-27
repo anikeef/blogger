@@ -10,6 +10,145 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require normalize
  *= require_tree .
  *= require_self
  */
+
+* {
+  font-family: "Open Sans", arial, sans-serif;
+}
+
+body {
+  max-width: 720px;
+  margin: auto;
+
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.flash {
+  color: #aaa;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #222;
+}
+
+a:hover {
+  color: #d2691e;
+}
+
+input[type="submit"] {
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 1px dotted #222;
+  border-radius: 10px;
+}
+
+input[type="submit"]:hover {
+  border: 1px solid #d2691e;
+  color: #d2691e;
+}
+
+input[type="file"] {
+  margin: 20px 0;
+}
+
+ul {
+  -webkit-padding-start: 0;
+}
+
+li {
+  list-style: none;
+  color: #222;
+  padding: 10px 0;
+  font-size: 20px;
+  border-bottom: 1px dotted #222;
+}
+
+input[type="text"],
+textarea {
+  margin-top: 5px;
+  padding: 8px;
+  width: 100%;
+  border: 1px dotted #222;
+  border-radius: 10px;
+}
+
+textarea {
+  min-height: 100px;
+}
+
+.show {
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  box-shadow: 0 0 20px #ddd;
+}
+
+.img_holder {
+  margin: 0;
+}
+
+.article_img {
+  width: 100%
+}
+
+.content {
+  padding: 10px 40px;
+}
+
+.body {
+  padding-bottom: 0px;
+}
+
+.nav {
+  padding: 10px 20px;
+  border: 1px dotted #222;
+  border-radius: 10px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.links {
+  float: right;
+}
+
+.tags {
+  padding: 10px 0;
+  border-top: 1px dotted #222;
+}
+
+.comments {
+  margin-top: 40px;
+}
+
+.time {
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+}
+
+h4 {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.comment {
+  margin: 10px 0;
+}
+
+.comment_holder {
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px dotted #222;
+  border-radius: 10px;
+}
