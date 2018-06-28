@@ -1,0 +1,17 @@
+<h1>Login</h1>
+
+<%= form_tag author_sessions_path, method: :post do %>
+  <div class="field">
+    <%= text_field_tag :email, "", placeholder: "E-mail" %>
+    <br/>
+  </div>
+  <div class="field">
+    <%= password_field_tag :password, "", placeholder: "Password" %>
+    <br/>
+  </div>
+  <div class="actions">
+    <%= submit_tag "Login" %>
+  </div>
+<% end %>
+
+<%= link_to 'Back', articles_path, class: "nav no_margin_top" %>

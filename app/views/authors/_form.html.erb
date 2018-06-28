@@ -1,0 +1,33 @@
+<%= form_with(model: author, local: true) do |form| %>
+  <% if author.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(author.errors.count, "error") %> prohibited this author from being saved:</h2>
+
+      <ul>
+      <% author.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.text_field :username, id: :author_username, placeholder: "Your Name" %>
+  </div>
+
+  <div class="field">
+    <%= form.text_field :email, id: :author_email, placeholder: "Email" %>
+  </div>
+
+  <div class="field">
+    <%= form.password_field :password, id: :author_password, placeholder: "Password" %>
+  </div>
+
+  <div class="field">
+    <%= form.password_field :password_confirmation, id: :author_password_confirmation, placeholder: "Repeat password" %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

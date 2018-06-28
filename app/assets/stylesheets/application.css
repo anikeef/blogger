@@ -47,7 +47,7 @@ a:visited {
 }
 
 a:hover {
-  color: #d2691e;
+  color: rgb(205, 150, 70);
 }
 
 input[type="submit"] {
@@ -58,12 +58,12 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  border: 1px solid #d2691e;
-  color: #d2691e;
+  border: 1px solid rgb(205, 150, 70);
+  color: rgb(205, 150, 70);
 }
 
 input[type="file"] {
-  margin: 20px 0;
+  margin: 20px 0 0;
 }
 
 ul {
@@ -79,6 +79,7 @@ li {
 }
 
 input[type="text"],
+input[type="password"],
 textarea {
   margin-top: 5px;
   padding: 8px;
@@ -115,7 +116,8 @@ textarea {
   padding-bottom: 0px;
 }
 
-.nav {
+.nav,
+input[type="submit"] {
   padding: 10px 20px;
   border: 1px dotted #222;
   border-radius: 10px;
@@ -145,6 +147,8 @@ textarea {
 h4 {
   margin-bottom: 10px;
   margin-top: 0;
+  font-weight: 800;
+  color: rgb(205, 150, 70);
 }
 
 .comment {
@@ -152,8 +156,12 @@ h4 {
 }
 
 .comment_holder {
-  margin-bottom: 10px;
-  padding: 20px;
-  border: 1px dotted #222;
+  margin: 30px 0;
+  padding: ;
+
   border-radius: 10px;
+}
+
+.no_margin_top {
+  margin-top: 10px;
 }

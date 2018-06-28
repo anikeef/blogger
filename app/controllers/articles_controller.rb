@@ -1,5 +1,6 @@
 class ArticlesController < ApplicationController
   include ArticlesHelper
+  before_action :require_login, only: [:create, :new, :edit, :update, :destroy]
 
   def index
     @articles = Article.all
@@ -8,7 +9,7 @@ class ArticlesController < ApplicationController
   def show
     @article = Article.find(params[:id])
     @comment = Comment.new
-    @comment.article_id = @article.id 
+    @comment.article_id = @article.id
   end
 
   def new
